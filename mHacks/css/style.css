@@ -1,0 +1,10 @@
+body{
+
+    background-color: #c4cedf;
+    
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #66AADD;
+    background-color: #eee;
+}
